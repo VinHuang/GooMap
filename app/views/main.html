@@ -1,0 +1,7 @@
+<form name="searchForm" novalidate ng-submit="search()" style="margin: 50px 0;">
+    <div class="input-group">
+        <input type="text" name="place" class="form-control" ng-model="searchPlace" required autofocus />
+        <span class="input-group-btn"><button class="btn btn-primary" ng-disabled="searchForm.$invalid">Search</button></span>
+    </div>
+</form>
+<div id="map" style="height: 400px;margin: 20px 0;border-radius: 5px;border: 1px solid silver;"></div>
