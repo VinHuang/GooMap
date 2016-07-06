@@ -1,0 +1,6 @@
+{
+  "name": "Goomap",
+  "tagline": "Use Google map api , AngularJS and Yeoman practice map search app ",
+  "body": "# goo-map\r\n\r\nThis project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)\r\nversion 0.15.1.\r\n\r\n## Build & development\r\n\r\nRun `grunt` for building and `grunt serve` for preview.\r\n\r\n## Testing\r\n\r\nRunning `grunt test` will run the unit tests with karma.\r\n\"# GooMap\" \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
